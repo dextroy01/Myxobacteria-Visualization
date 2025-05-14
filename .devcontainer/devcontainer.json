@@ -1,7 +1,7 @@
 // .devcontainer/devcontainer.json
 {
     "name": "Fenics-DOLFINx Dev Container",
-    "image": "ghcr.io/jorgensd/dolfinx-tutorial:release",
+    "image": "dolfinx/dolfinx:stable",
     "runArgs": [
       "-p", "8888:8888"  // forward port 8888 to host
     ]
