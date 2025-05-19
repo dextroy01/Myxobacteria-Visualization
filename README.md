@@ -7,7 +7,8 @@ This project simulates the behaviors of myxobacteria in a spatially inhemogenous
 3) Otherwise download the contianer from https://hub.docker.com/r/dolfinx/dolfinx
 
 # Project Directory and usage
-The Example code folder contains example code from the dolfinx tutorials
-The advection diffusion code can be found in the project code folder. Simulations have been saved as .gif's.
-AdvectionDiffusion.ipynb contains the simulation for the normal advection diffusion equation.
-AdvectionDIffusion_spatial_variance.ipynb contains the code for the spatially varrying advection diffusion equation.
+- The Example code folder contains example code from the dolfinx tutorials
+- The advection diffusion code can be found in the project code folder. Simulations have been saved as .gif's.
+- AdvectionDiffusion.ipynb contains the simulation for the normal advection diffusion equation.
+- AdvectionDIffusion_spatial_variance.ipynb contains the code for the spatially varrying advection diffusion equation.
+- Two simulation gifs are included, one with a large velocity coefficient and one with a low velocity coefficient
